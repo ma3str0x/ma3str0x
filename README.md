@@ -32,5 +32,5 @@
 
 ### 📫 How to reach me:
 
-<a href="https://discordapp.com/users/ma3str0x" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> 
+<a href="https://discordapp.com/users/610857971450249236" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> 
 <a href="https://steamcommunity.com/id/ma3str0x/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>
